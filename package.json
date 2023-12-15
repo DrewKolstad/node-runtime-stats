@@ -8,14 +8,14 @@
     "test": "mocha tests"
   },
   "dependencies": {
-    "nan": "^2.9.2",
-    "node-gyp": "^3.7.0",
-    "prebuild-install": "^5.2.1"
+    "nan": "^2.18.0",
+    "node-gyp": "^10.0.1",
+    "prebuild-install": "^7.1.1"
   },
   "license": "MIT",
   "repository": "https://github.com/keymetrics/node-runtime-stats",
   "devDependencies": {
-    "mocha": "^5.2.0",
-    "prebuild": "^8.1.2"
+    "mocha": "^10.2.0",
+    "prebuild": "^12.1.0"
   }
 }
